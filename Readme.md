@@ -7,6 +7,9 @@
 * **[XRHyperlink.cs](./CS/E4931/XRHyperlink.cs) (VB: [XRHyperlink.vb](./VB/E4931/XRHyperlink.vb))**
 <!-- default file list end -->
 # How to create a custom hyperlink XRControl and specify custom HTML export for it
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4931/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to create a custom <a href="http://documentation.devexpress.com/#XtraReports/clsDevExpressXtraReportsUIXRControltopic"><u>XRControl</u></a> descendant with custom export code.</p><br />
