@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128599214/13.1.7%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E4931)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -12,9 +7,6 @@
 * **[XRHyperlink.cs](./CS/E4931/XRHyperlink.cs) (VB: [XRHyperlink.vb](./VB/E4931/XRHyperlink.vb))**
 <!-- default file list end -->
 # How to create a custom hyperlink XRControl and specify custom HTML export for it
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4931/)**
-<!-- run online end -->
 
 
 <p>This example demonstrates how to create a custom <a href="http://documentation.devexpress.com/#XtraReports/clsDevExpressXtraReportsUIXRControltopic"><u>XRControl</u></a> descendant with custom export code.</p><br />
